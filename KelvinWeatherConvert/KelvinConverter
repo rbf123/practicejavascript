@@ -2,6 +2,7 @@
 const kelvin = 0;
 //celsius is 273 less than kelvin
 let celsius = (kelvin - 273);
+console.log(`The temperature is ${celsius} degrees Celsius.`)
 //converting celsius to fahrenheit
 let fahrenheit = celsius * (9/5) + 32;
 //use .floor() method to round down Fahrenheir temp
