@@ -1,4 +1,4 @@
-RFrench's code repo for practicing Javascript concepts
+RFrench's code repo for practicing Javascript concepts through small projects
 
 # Table of Contents
 
